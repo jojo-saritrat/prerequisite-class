@@ -32,4 +32,4 @@ Docker Desktop provides an easy-to-use interface and CLI for building, sharing, 
 
 ```bash
 docker version
-
+```
